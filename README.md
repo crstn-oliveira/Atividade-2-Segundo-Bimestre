@@ -8,7 +8,7 @@ Os exercícios envolvem implementação e manipulação de listas encadeadas sim
 
 # Atividade 1 – Lista Encadeada
 
-Foi desenvolvidoum gerenciador simples de inteiros usando listas encadeadas. A estrutura permite:
+Foi desenvolvido um gerenciador simples de inteiros usando listas encadeadas. A estrutura permite:
 * inserção de elementos no final;
 * inserção em posição específica;
 * busca de valores;
